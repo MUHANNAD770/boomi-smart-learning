@@ -1,0 +1,5 @@
+Local interface sound effects in this folder are from Kenney's Interface Sounds pack.
+
+Source: https://kenney.nl/assets/interface-sounds
+License: Creative Commons Zero (CC0) 1.0 Universal.
+The source pack is free for personal, educational, and commercial projects.

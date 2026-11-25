@@ -1,0 +1,38 @@
+/* tokens.css — Unified Design System Tokens for BOOMI Academy */
+:root {
+  --bg: #f4f1ff;
+  --bg2: #e9f6ff;
+  --card: #ffffff;
+  --ink: #1f2147;
+  --mut: #5b5f8a;
+  --line: #e3e4f6;
+  --sky: #4d7cfe;
+  --berry: #ef4f8b;
+  --sun: #ffc531;
+  --sun2: #ff9f1c;
+  --mint: #20b486;
+  --grape: #8b5cf6;
+  --shadow: 0 6px 18px rgba(48, 40, 120, .10), 0 2px 4px rgba(48, 40, 120, .06);
+  --shadow-lg: 0 14px 34px rgba(48, 40, 120, .16);
+  --r: 22px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme=light]) {
+    --bg: #15163a;
+    --bg2: #101433;
+    --card: #22245a;
+    --ink: #f3f3ff;
+    --mut: #b4b6e6;
+    --line: #34377a;
+    --shadow: 0 6px 18px rgba(0, 0, 0, .35);
+  }
+}
+:root[data-theme=dark] {
+  --bg: #15163a;
+  --bg2: #101433;
+  --card: #22245a;
+  --ink: #f3f3ff;
+  --mut: #b4b6e6;
+  --line: #34377a;
+  --shadow: 0 6px 18px rgba(0, 0, 0, .35);
+}

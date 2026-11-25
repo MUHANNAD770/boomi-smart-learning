@@ -1,0 +1,6 @@
+{
+  "name": "حروفي – البومة التعليمية الذكية لتعلّم العربية والإنجليزية",
+  "description": "منصة حروفي التعليمية الذكية مع المعلم بومي لتعلّم اللغة العربية واللغة الإنجليزية للأطفال من التأسيس إلى الإتقان.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

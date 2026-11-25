@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+.env
+.env.local
+.env.*.local
+!.env.example
+tools/clips/out/
+tools/clips/progress.txt
+tools/clips/fail.txt

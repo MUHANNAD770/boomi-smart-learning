@@ -1,0 +1,35 @@
+{
+  "name": "حُرُوفِي — البومة التعليمية الذكية",
+  "short_name": "حُرُوفِي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "fullscreen",
+  "background_color": "#221d6e",
+  "theme_color": "#221d6e",
+  "description": "تعلّم العربية والإنجليزية مع بومي من التأسيس إلى الإتقان.",
+  "icons": [
+    {
+      "src": "img/icon-192c.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/icon-512c.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/icon-512m.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "display_override": [
+    "fullscreen",
+    "standalone"
+  ]
+}
